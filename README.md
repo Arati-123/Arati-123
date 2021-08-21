@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arati-123
+- 👋 Hi, I’m @Arati Rangari
 - 👀 I’m interested in ...BigData
 - 🌱 I’m currently doing a job ...
 
